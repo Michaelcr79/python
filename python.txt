@@ -1,0 +1,7 @@
+Arrays
+
+List [ ] 			mutable.
+Tuple(x,x,x) (o,o,o)		immutable (repeats allowed)
+Sets ( "mon","Tues",...)	immutable.
+Dictionary { Immutable Key : mutable Value }
+
